@@ -5,7 +5,8 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-}
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+} 
 
 .description {
   display: inherit;
