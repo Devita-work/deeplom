@@ -9,6 +9,7 @@ const TopComponent = () => {
         <Container className="container-top">
           <h1>Hello!</h1>
         </Container>
+        <footer/>
       </div>
     </>
   );

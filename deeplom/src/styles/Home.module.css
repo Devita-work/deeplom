@@ -1,9 +1,10 @@
+
 .main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  padding: 0;
   min-height: 100vh;
   background: linear-gradient(45deg, #EECFBA, #C5DDE8);
 } 
@@ -177,7 +178,7 @@
 /* Mobile */
 @media (max-width: 700px) {
   .content {
-    padding: 4rem;
+    padding: 0;
   }
 
   .grid {
